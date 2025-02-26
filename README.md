@@ -1,2 +1,3 @@
-# homework_week_2
-This is the homework repo for week 2
+# Grades functions repo
+
+To be archived. Better attempt of the grading script was done in the Flask repo
